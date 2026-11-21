@@ -1,0 +1,6 @@
+Project: Low Latency Sorting Unit
+Target family: Xilinx Artix-7 (exact board/part must be confirmed)
+HDL: SystemVerilog
+Architecture: 8-input bitonic sorting network, registered output
+Default width: 16 bits
+Sort order: unsigned ascending
